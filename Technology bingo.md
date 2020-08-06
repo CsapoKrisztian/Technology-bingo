@@ -13,9 +13,9 @@ Projects are:
 
 1.  **Time tracking system 1.**
 
-A tool for a company, where users (employees of the company) can log how much
+_A tool for a company, where users (employees of the company) can log how much
 did they work on different tasks, while they were on-site in the office. All
-employees have a dedicated computer.
+employees have a dedicated computer._
 
 Natív alkalmazás. Ha van egyedi / fejleszthető vállalat irányítási rendszer,
 akkor célszerű intergálni.
@@ -23,22 +23,22 @@ akkor célszerű intergálni.
 Ha új alkalmazást kell fejleszteni akkor nehezebb egy kicsit, amennyiben
 integrálható vállalatirányítási rendszerbe, akkor könnyebb.
 
-1.  **Time tracking system 2.**
+2.  **Time tracking system 2.**
 
-A tool for a company, where users (employees of the company) can log how much
+_A tool for a company, where users (employees of the company) can log how much
 did they work on different tasks, while they were either on- or off-site (either
 at home office, or at clients). You can safely assume that they have internet
-access at all times.
+access at all times._
 
 weboldal – van már hasonló: intervals
 
 Könnyű
 
-1.  **Precision agriculture sensor system**
+3.  **Precision agriculture sensor system**
 
-A farmer wants to know the humidity on each acres of her farm which is a
+_A farmer wants to know the humidity on each acres of her farm which is a
 contiguous area of one km\^2. She would like to see the measurements on her
-ipad.
+ipad._
 
 weboldal, adatbázissal ha tárolni is akarja az adatokat, ha sok pénze van a
 farmernek akkor a megjelenítőfelület lehet egy app is.
@@ -47,21 +47,21 @@ Weboldal adatbázis nélkül, vagy vele : Könnyű
 
 App: közepes
 
-1.  **A 3D-heavy FPS game**
+4.  **A 3D-heavy FPS game**
 
-A 3D-heavy, single player FPS game, where your goal is to kill the unicorn king.
+_A 3D-heavy, single player FPS game, where your goal is to kill the unicorn king._
 
 Natív kliens, a játék motorja lehet akár Unreal…
 
 Nagyon nehéz
 
-1.  **Notes app**
+5.  **Notes app**
 
-Software which is capable of saving your notes while you're on the go. It should
-be able to process speech to text, and handdrawing.
+_Software which is capable of saving your notes while you're on the go. It should
+be able to process speech to text, and handdrawing._
 
 When it comes online, it should be able to sync your notes across all your
-devices.
+devices._
 
 Ilyen is van már: iPhone-on Notes a neve. Amennyiben windows felületen is
 szeretnénk szinkronizálni az adatokat, ahhoz fejleszteni kell egy natív klienst
@@ -69,19 +69,19 @@ szeretnénk szinkronizálni az adatokat, ahhoz fejleszteni kell egy natív klien
 
 Már meglévőt használni könnyű, windows felületre fejleszteni közepes
 
-1.  **Smart mirror**
+6.  **Smart mirror**
 
-An augmented reality application, with what you can try on virtually designed
-clothes and jewellery.
+_An augmented reality application, with what you can try on virtually designed
+clothes and jewellery._
 
 Egy natív app pc-re vagy játékkonzolra. (A neve lehetne Sims 6 )
 
 Nehéz
 
-1.  **A blog**
+7.  **A blog**
 
-A blog which can be edited from any device (given the right screen size, and the
-adequate peripherials) on-line.
+_A blog which can be edited from any device (given the right screen size, and the
+adequate peripherials) on-line._
 
 Tumblr néven van ilyen. Amennyiben újat akarunk fejleszteni akkor ahhoz
 hasonlóan webpage kell. Nagy adatbázissal, mely gyorsan írható. Mobil app
@@ -89,11 +89,11 @@ szükséges lehet a felhasználók megtartására.
 
 Könnyű, Mobil appal közepes
 
-1.  **Mobile version of an existing marketplace**
+8.  **Mobile version of an existing marketplace**
 
-There's an online marketplace, built using PHP, with millions of products, a
+_There's an online marketplace, built using PHP, with millions of products, a
 plethora of shopping and delivery modes, and it is being developed for 10 years.
-Now the management wants to build a mobile version.
+Now the management wants to build a mobile version._
 
 PWA mely használja a weboldal adatbázisát.
 
@@ -123,7 +123,7 @@ Tasks
 
 -   A relative complexity is estimated for all the projects
 
-General requirements
+#### General requirements
 
 None
 
@@ -137,19 +137,19 @@ Background materials
 -    [Web vs
     desktop](https://w3-lab.com/web-development/choose-web-application-over-desktop/)
 
--    Advantages of web applications over desktop applications
+-    [Advantages of web applications over desktop applications](https://stackoverflow.com/questions/1072904/advantages-of-web-applications-over-desktop-applications)
 
 -    [Mobile website vs
     app](https://www.hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/)
 
--    Why mobile apps?
+-    [Why mobile apps?](https://vwo.com/blog/10-reasons-mobile-apps-are-better/)
 
 -    [Mobile app vs
     website](https://www.business2community.com/mobile-apps/mobile-app-vs-mobile-website-which-is-the-better-option-02048068)
 
 -    [IOT applications](https://www.edureka.co/blog/iot-applications/)
 
--    Intenet of things - Wikipedia
+-    [Intenet of things - Wikipedia](https://en.wikipedia.org/wiki/Internet_of_things)
 
 -    [IOT sensor
     types](https://www.finoit.com/blog/top-15-sensor-types-used-iot/)
